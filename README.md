@@ -43,13 +43,6 @@ On running the below command
 **desktop:** height = 1792 , width = 1010 , language  = french
 
 
-
-
-**Automation Tool:** Selenium , TestNG
-
-**Automation IDE:** Eclipse
-
-
 ## Tech Stack
 
 **Language:** Java
