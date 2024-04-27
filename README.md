@@ -1,4 +1,4 @@
-<img width="1792" alt="Screenshot 2024-04-27 at 10 15 42 AM" src="https://github.com/rahil23/MultiLanguageProject/assets/15339271/74f1b8a5-1398-4841-85c8-50d5d059a29b">
+
 # MultiLanguageProject
 
 A brief description of what this project does and who it's for
