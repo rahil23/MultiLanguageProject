@@ -1,4 +1,4 @@
-
+<img width="1792" alt="Screenshot 2024-04-27 at 10 15 42 AM" src="https://github.com/rahil23/MultiLanguageProject/assets/15339271/74f1b8a5-1398-4841-85c8-50d5d059a29b">
 # MultiLanguageProject
 
 A brief description of what this project does and who it's for
@@ -62,4 +62,11 @@ To run this project, you will need to add the following properties file to your
 `russian.properties`
 
 `french.properties`
+
+#Output
+<img width="1792" alt="Screenshot 2024-04-27 at 10 15 42 AM" src="https://github.com/rahil23/MultiLanguageProject/assets/15339271/0d270fdc-5609-4be2-8f41-cc072a05dc6c">
+<img width="1792" alt="Screenshot 2024-04-27 at 10 15 27 AM" src="https://github.com/rahil23/MultiLanguageProject/assets/15339271/3e1bc00a-bfad-4d40-a901-648dddf447d7">
+
+
+
 
